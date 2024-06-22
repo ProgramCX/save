@@ -1,5 +1,6 @@
 body{
-    background-image:url(https://gitee.com/ProgramCX/ProgramCX/raw/master/background.jpg) ;
+    /* background-image:url(https://gitee.com/ProgramCX/ProgramCX/raw/master/background.jpg) ; */
+    background-image: url(background.jpg);
     background-size: cover;
     border-radius: 10px;
     display: flex;
